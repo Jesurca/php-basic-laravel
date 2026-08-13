@@ -105,8 +105,7 @@
     justify-content:space-between;
   }
   .brand{
-    font-family:'Anton',sans-serif;
-    font-size:1.1rem;
+Ñ    font-size:1.1rem;
     letter-spacing:0.06em;
     display:flex;
     align-items:center;
